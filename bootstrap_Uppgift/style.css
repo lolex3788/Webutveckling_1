@@ -1,0 +1,32 @@
+body {
+    background-image: url("background-l.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.picture {
+    text-align: center;
+}
+
+.header {
+    width: 100% ;
+    text-align: center;
+    color:white;
+}
+
+.h1c {
+    text-align: center;
+    text-shadow: 2px 2px blue, 0px 0px 10px ;
+}
+.h1 {
+    text-shadow: 2px 2px blue, 0px 0px 10px ;
+}
+
+.h2c {
+    text-align: center;
+    text-shadow: 2px 2px green, 0px 0px 10px ;
+}
+.h2 {
+    text-shadow: 2px 2px green, 0px 0px 10px ;
+}
+

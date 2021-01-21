@@ -1,1 +1,62 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.css">                                           <!--Länkar till min stylecheet och bootstrap-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuck</title>
+</head>
+<body>
+    <div class="h1c">       <!--Ser till att texten är centrerad och har en blå skugga-->
+        <div class="header">       <!--Gör texten vit-->
+            <h1>
+                HTML5. Förklaring av ämnen/ord.       <!--Titeln på hela webbsidan-->
+            </h1>
+        </div>
+    </div>
+    <br>
+    <br>    <!--<br> används för att skapa toma mellanrum-->
+    <br>
+    <br>
+    <div class="h1c">
+        <h1>
+            Element                                                                         <!--    ʕ•ᴥ•ʔ    -->
+        </h1>
+    </div>
+    <div class="container">     <!--container gör en ruta som är vit innuti så att man ser texten lättare-->
+        <div class="h2c">       <!--h2c gör så att texten är svart med en blå skugga och så att den är centrerad-->
+            <h2>
+                Element är ett gemensamt ord för alla taggar.
+            </h2>
+            <h2>
+                Till exempel : h1, h2, p, body, div, br osv
+            </h2>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="h1c">
+        <h1>
+           HTML                                                                         <!--    ¯\_(ツ)_/¯    -->
+        </h1>
+    </div>
+    <div class="container">
+        <div class="h2c">
+            <h2>
+                HTML eller Hyper Text Markup Language är programeringsspråket som används för att bygga en webbsida.
+            </h2>
+            <br>
+            <h2>
+                Allt du ser på denna sida är skrivet i HTML, men det finns andra språk också som hjälper till att bygga upp webbsidan.
+            </h2>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>                                                                                <!--    [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]    -->
+</body>
+</html>

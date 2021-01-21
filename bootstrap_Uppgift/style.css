@@ -1,32 +1,34 @@
 body {
-    background-image: url("background-l.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-}
-
-.picture {
-    text-align: center;
+    background-image: url("Wiki-background.jpg");           /*Bakgrundsbilden och den uprepas hela tiden*/             
 }
 
 .header {
-    width: 100% ;
-    text-align: center;
+    text-align: center;                                     /*Detta är för att titeln ska vara vit istället för svart och så hamnar de i mitten av webbsidan*/
     color:white;
 }
 
 .h1c {
     text-align: center;
-    text-shadow: 2px 2px blue, 0px 0px 10px ;
+    color: black;                                         /*h1c står för h1 center och används om titeln på textstycket ska vara i mitten och så att den är svart med en blå skugga*/
+    text-shadow: 3px 3px blue, 0px 0px 10px ;
 }
 .h1 {
-    text-shadow: 2px 2px blue, 0px 0px 10px ;
+    color: black;
+    text-shadow: 3px 3px blue, 0px 0px 10px ;             /*h1 används om titeln på textstycket inte ska vara i mitten, för övrigt ser den till att texten är svart mer blå skugga*/
 }
 
 .h2c {
     text-align: center;
-    text-shadow: 2px 2px green, 0px 0px 10px ;
+    color: black;                                         /*h2c står för h2 center och används för att skriva text. Denna container ser till att texten är svart med grön skugga*/
+    text-shadow: 1px 1px green, 0px 0px 10px ;
 }
 .h2 {
-    text-shadow: 2px 2px green, 0px 0px 10px ;
+    color: black;
+    text-shadow: 1px 1px green, 0px 0px 10px ;            /*h2 används för att skriva text som är svart med grön skugga*/
 }
 
+.container {
+    border-width: 3px;
+    border-style: solid;                                    /*container används på vanlig text för att skapa en ruta runt texten som är vit innuti och som gör det lättare att läsa den mindre texten*/
+    background-color: white;
+}
